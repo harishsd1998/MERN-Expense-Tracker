@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MERN-Expense-Tracker/static/css/main.246718ed.chunk.css",
+    "main.js": "/MERN-Expense-Tracker/static/js/main.613b7ff3.chunk.js",
+    "main.js.map": "/MERN-Expense-Tracker/static/js/main.613b7ff3.chunk.js.map",
+    "runtime-main.js": "/MERN-Expense-Tracker/static/js/runtime-main.df34937f.js",
+    "runtime-main.js.map": "/MERN-Expense-Tracker/static/js/runtime-main.df34937f.js.map",
+    "static/js/2.1299fdd7.chunk.js": "/MERN-Expense-Tracker/static/js/2.1299fdd7.chunk.js",
+    "static/js/2.1299fdd7.chunk.js.map": "/MERN-Expense-Tracker/static/js/2.1299fdd7.chunk.js.map",
+    "index.html": "/MERN-Expense-Tracker/index.html",
+    "static/css/main.246718ed.chunk.css.map": "/MERN-Expense-Tracker/static/css/main.246718ed.chunk.css.map",
+    "static/js/2.1299fdd7.chunk.js.LICENSE.txt": "/MERN-Expense-Tracker/static/js/2.1299fdd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df34937f.js",
+    "static/js/2.1299fdd7.chunk.js",
+    "static/css/main.246718ed.chunk.css",
+    "static/js/main.613b7ff3.chunk.js"
+  ]
+}
